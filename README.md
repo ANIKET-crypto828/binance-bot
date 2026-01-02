@@ -56,7 +56,7 @@ binance-bot/
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ANIKET-crypto828/binance-bot
 cd binance-bot
 ```
 
@@ -299,7 +299,7 @@ The developers are not responsible for any trading losses.
 For issues or questions:
 - Check `bot.log` for error details
 - Review Binance API documentation
-- Contact: [your contact email]
+- Contact: aniketsantra78@gmail.com
 
 ---
 
